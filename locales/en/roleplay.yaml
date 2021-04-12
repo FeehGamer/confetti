@@ -1,0 +1,5 @@
+pat: "**%{user}** petted **%{mentioned}**"
+slap: "**%{user}** slapped **%{mentioned}**"
+kiss: "**%{user}** kissed **%{mentioned}**"
+tickle: "**%{user}** tickeled **%{mentioned}**"
+hug: "**%{user}** hugged **%{mentioned}**"

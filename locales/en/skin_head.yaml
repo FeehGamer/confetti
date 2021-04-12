@@ -1,0 +1,5 @@
+skin: "%{arg}'s skin"
+head: "%{arg}'s head"
+headNotFound: "%{arg}'s head wasn't found"
+skinNotFound: "%{arg}'s skin wasn't found"
+owner: "%{owners}"

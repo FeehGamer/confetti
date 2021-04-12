@@ -1,0 +1,5 @@
+pat: "**%{user}** pohladil **%{mentioned}**"
+slap: "**%{user}** dal facku **%{mentioned}**"
+kiss: "**%{user}** dal pusu **%{mentioned}**"
+tickle: "**%{user}** polechtal **%{mentioned}**"
+hug: "**%{user}** obejmul **%{mentioned}**"

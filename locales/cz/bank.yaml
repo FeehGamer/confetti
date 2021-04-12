@@ -1,0 +1,8 @@
+wallet: "Peněženka"
+bank: "Banka"
+owner: "%{owners}"
+depositTip: "Vlož peníze do banky pomocí `%{prefix}deposit`"
+withdrawTip: "Vyber peníze z banky pomocí `%{prefix}withdraw`"
+deposit: "Úspěšně jsi si vložil do banky `%{amount}`$!"
+withdraw: "Úspěšně jsi si vybral z banky `%{amount}`$!"
+dnwError: "Chybí ti `%{amount}`$"

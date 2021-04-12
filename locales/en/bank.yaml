@@ -1,0 +1,8 @@
+wallet: "Wallet"
+bank: "Bank"
+owner: "%{owners}"
+depositTip: "Deposit money to bank - use `%{prefix}deposit`"
+withdrawTip: "Withdraw money from bank - use `%{prefix}withdraw`"
+deposit: "You successfully deposited $`%{amount}`!"
+withdraw: "You successfully withdrawed  $`%{amount}`!"
+dnwError: "You need $`%{amount}` more"

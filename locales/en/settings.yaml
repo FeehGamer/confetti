@@ -1,0 +1,6 @@
+pleaseSelectCategory: "Please select category"
+pleaseSelectLanguage: "Please select language"
+userSettings: "User Settings"
+guildSettings: "Server Settings"
+language: "Language"
+validLanguages: "Valid languages: ```1. English \n2. Česky \n3. Slovensky \n4. Default ```\n"

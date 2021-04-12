@@ -1,0 +1,5 @@
+success: "Succesfully deleted %{count} %{message}!"
+singular: "message"
+plural: "messages"
+lessThan2: "Argument can't be less than 2!"
+moreThan100: "Argument can't be more than 100!"

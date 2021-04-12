@@ -1,0 +1,5 @@
+success: "Úspešne som zmazal %{count} %{message}!"
+singular: "zprávu"
+plural: "zpráv"
+lessThan2: "Argument nemôže byť menší než 2!"
+moreThan100: "Argument nemôže byť vyšší než 100!"

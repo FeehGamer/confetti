@@ -1,0 +1,2 @@
+self: "%{emote} You are **%{number}**% gay %{emote}"
+mentioned: "%{emote} **%{mentioned}** is **%{number}**% gay %{emote}"

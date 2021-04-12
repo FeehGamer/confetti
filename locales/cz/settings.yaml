@@ -1,0 +1,6 @@
+pleaseSelectCategory: "Prosím vyber kategorii"
+pleaseSelectLanguage: "Prosím vyber jazyk"
+userSettings: "Nastavení Uživatele"
+guildSettings: "Nastavení Serveru"
+language: "Jazyk"
+validLanguages: "Platné jazyky: ```1. English \n2. Česky \n3. Slovensky \n4. Default ```\n"

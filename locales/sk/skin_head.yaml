@@ -1,0 +1,5 @@
+skin: "Skin hráča %{arg}"
+head: "Hlava hráča %{arg}"
+headNotFound: "Hlava hráča %{arg} sa nenašla"
+skinNotFound: "Skin hráča %{arg} sa nenašiel"
+owner: "%{owners}"
